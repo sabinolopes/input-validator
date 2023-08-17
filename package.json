@@ -1,0 +1,27 @@
+{
+  "name": "input-validator",
+  "version": "1.0.0",
+  "description": "input data validator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabinolopes/input-validator.git"
+  },
+  "keywords": [
+    "input",
+    "data",
+    "validator"
+  ],
+  "author": "Sabino Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabinolopes/input-validator/issues"
+  },
+  "homepage": "https://github.com/sabinolopes/input-validator#readme",
+  "dependencies": {
+    "validator": "^13.11.0"
+  }
+}
